@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #FCFAF9;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Big Shoulders Display', sans-serif;
+}
+.moma4back {
+    display: grid;
+    justify-items: center;
+}
+.backmenu {
+    margin-left: -59px;
+    cursor: pointer;
+    z-index: 2;
+    width: 204px;
+    height: 72px;
+    background: var(--Almost-Black, #151515);
+}
+.textloc {
+    margin-top: 24px;
+    margin-left: 32px;
+    color: var(--White, #FFF);
+    font-family: Big Shoulders Display;
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 3.636px;
+}
+.arrowleft {
+    margin-top: -48px;
+    margin-left: -56px;
+    z-index: 1;
+}
+.mapmob {
+    margin-top: -72px;
+}
+.checkmob {
+    margin-top: -318px;
+    z-index: 3;  
+}
+.blackbox {
+    width: 375px;
+    height: 493px;
+    background: #151515;
+}
+.blackinside1 {
+    margin-top:30px;
+    margin-left:16px;
+    width: 343px;
+    color: var(--White, #FFF);
+    font-size: 50px;
+    font-weight: 900;
+}
+.blackinside2 {
+    margin-top:20px;
+    margin-left:16px ;
+    width: 343px;
+    color: var(--Gold, #D5966C);
+    font-size: 32px;
+    font-weight: 900;
+}
+.blackinside3 {
+    margin-top: 20px;
+    margin-left: 16px;
+    width: 143px;
+    color: var(--White, #FFF);
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px; /* 155.556% */
+}
+.blackinside4 {
+    margin-top: 30px;
+    margin-left: 16px;
+    width: 343px;
+    color: var(--White, #FFF);
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px; /* 155.556% */    
+}
+.orangebox {
+    width: 375px;
+    height: 336px;
+    background: var(--Gold, #D5966C);
+}
+.orangeimg {
+    width: 110.05px;
+    height: 40px;
+    margin-top: 48px;
+    margin-left: 32px;
+}
+.orangeinside1 {
+    margin-top:38px;
+    margin-left: 32px;
+    width: 311px;
+    color: var(--Almost-Black, #151515);
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px; /* 162.5% */
+}
+.socials {
+    width: 100px;
+    height: 20px;
+    margin-top: 38px;
+    margin-left: 32px;       
+}
