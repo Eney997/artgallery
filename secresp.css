@@ -1,8 +1,11 @@
 @media only screen and (width > 1401px) {
+       .pcmap {
+              height: 549px;
+       }
        .mapmob {
-        background-image: url(/assets4menu/mapbackground.svg);
-        width: 1918px;
-        height: 685px;
+              background-image: url(/assets4menu/mapbackground.svg);
+              width: 1918px;
+              height: -1px;
        }
        .backmenu {
         margin-left: -900px;
