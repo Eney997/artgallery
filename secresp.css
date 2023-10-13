@@ -1,7 +1,7 @@
 @media only screen and (width > 1401px) {
        .mapmob {
         background-image: url(/assets4menu/mapbackground.svg);
-        width: 1918px;
+        width: 1818px;
         height: 685px;
        }
        .backmenu {
@@ -10,14 +10,13 @@
        .blackbox {
         display: flex;
         justify-content: space-evenly;
-
-        width: 1918px;
+        width: 1818px;
         height: 548px;
        }
        .orangebox {
         display: flex;
         justify-content: space-evenly;
-        width: 1918px;
+        width: 1818px;
         height: 344px;
        }
        .blackinside1 {
