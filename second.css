@@ -72,7 +72,7 @@ body {
     font-family: Outfit;
     font-size: 18px;
     font-weight: 300;
-    line-height: 28px; /* 155.556% */
+    line-height: 28px; 
 }
 .blackinside4 {
     margin-top: 30px;
@@ -82,7 +82,7 @@ body {
     font-family: Outfit;
     font-size: 18px;
     font-weight: 300;
-    line-height: 28px; /* 155.556% */    
+    line-height: 28px;    
 }
 .orangebox {
     width: 375px;
@@ -103,7 +103,7 @@ body {
     font-family: Outfit;
     font-size: 16px;
     font-weight: 300;
-    line-height: 26px; /* 162.5% */
+    line-height: 26px; 
 }
 .socials {
     width: 100px;
