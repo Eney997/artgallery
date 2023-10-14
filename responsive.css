@@ -1,4 +1,4 @@
-@media only screen and (width > 1920px) {
+@media only screen and (width > 1919px) {
     body {
         background: var(--White, #FFF);
     }
@@ -13,6 +13,7 @@
         height: 799px; 
         background-color: black;
         z-index: 1;
+        margin-left: -1px;
     }
     .granny {  
         position: absolute;
@@ -141,7 +142,7 @@
         line-height: 32px; 
     }
     .footer {
-        width: 1921px;
+        width: 1920px;
         height: 210px;
         background: var(--Almost-Black, #151515);
     }
