@@ -1,4 +1,4 @@
-@media only screen and (width > 1919px) {
+@media only screen and (width > 1440px) {
     body {
         background: var(--White, #FFF);
     }
@@ -142,7 +142,7 @@
         line-height: 32px; 
     }
     .footer {
-        width: 1920px;
+        width: 1441px;
         height: 210px;
         background: var(--Almost-Black, #151515);
     }
@@ -152,7 +152,7 @@
     }
     .footimg2 {
         position: absolute;
-        margin-left:1450px; 
+        margin-left:1200px; 
         margin-top: -71px;
     }
     .foottext {

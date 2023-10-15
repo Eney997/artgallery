@@ -1,4 +1,4 @@
-@media only screen and (width > 1919px) {
+@media only screen and (width > 1440px) {
        .mapmob {
               height: 0px;
        }
@@ -8,13 +8,13 @@
        .blackbox {
         display: flex;
         justify-content: space-evenly;
-        width: 1920px;
-        height: 548px;
+        width: 1441px;
+        height: 444px;
        }
        .orangebox {
         display: flex;
         justify-content: space-evenly;
-        width: 1920px;
+        width: 1441px;
         height: 344px;
        }
        .blackinside1 {
@@ -62,13 +62,4 @@
         margin-top: 90px;
         margin-left: -200px;
        }
- 
-
-
-
-
-
-
-
-
 }
