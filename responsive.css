@@ -27,4 +27,11 @@
         font-size: 96px;
         line-height: 88px; 
     }
+    .txt2 {
+        z-index: 4;
+        margin-left: 1046px;
+    }
+    .ourloc {
+        margin-left: 910px;
+    }
 }
