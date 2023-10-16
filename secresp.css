@@ -8,13 +8,13 @@
        .blackbox {
         display: flex;
         justify-content: space-evenly;
-        width: 1441px;
+        width: 1920px;
         height: 444px;
        }
        .orangebox {
         display: flex;
         justify-content: space-evenly;
-        width: 1441px;
+        width: 1920px;
         height: 344px;
        }
        .blackinside1 {
