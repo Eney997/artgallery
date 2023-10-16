@@ -1,0 +1,30 @@
+@media only screen and (width > 1440px) {
+    .mother {
+        display: grid;
+        place-items: start;
+    }
+    .blackgrannysleft {
+        width: 450px;
+        height: 800px;
+        background-color: black;
+        margin-top: -800px;
+        margin-left: -540px;
+        z-index: 0;
+    }
+    .granny {
+        width: 540px;
+        height: 800px;
+        background-image: url(/assets/granny2.svg);
+        z-index: 1;
+        margin-left: 450px;
+    }
+    .txt1 {
+        color: var(--White, #FFF);
+        width: 450px;
+        margin-top: -1050px;
+        margin-left: -215px;
+        z-index: 3;
+        font-size: 96px;
+        line-height: 88px; 
+    }
+}
