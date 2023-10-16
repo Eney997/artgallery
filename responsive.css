@@ -185,3 +185,13 @@
         margin-left: 20px;
     }
 }
+@media only screen and (width > 1500px) {
+    .footer {
+        width: 1918px;
+    }
+}
+@media only screen and (width > 1450px) {
+    .footer {
+        width: 1918px;
+    }
+}

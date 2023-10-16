@@ -59,12 +59,23 @@
 }
 @media only screen and (width > 1900px) {
     .blackbox {
-        width: 1903px;
+        width: 1918px;
     }
     .orangebox {
-        width: 1903px;
+        width: 1918px;
     }
     .mapmob {
-        width: 1903px;
+        width: 1918px;
+    }
+}
+@media only screen and (width > 1500px) {
+    .mapmob {
+         width: 1918px;
+    }
+    .blackbox {
+        width: 1918px;
+    }
+    .orangebox {
+        width: 1918px;
     }
 }
