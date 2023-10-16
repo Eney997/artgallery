@@ -136,7 +136,7 @@
 }
 @media only screen and (width > 1900px) {
     .footer {
-        width: 1901px;
+        width: 1903px;
         height: 244px;
         background: var(--Almost-Black, #151515);
     }
