@@ -57,39 +57,17 @@
         margin-left: -900px;
     }
 }
-
-
-
-@media only screen and (width > 1440px) {
+@media only screen and (width > 1450px) {
     .blackbox {
-        width: 1500px;
+        width: 1520px;
     }
     .orangebox {
-        width: 1500px;
+        width: 1520px;
     }
     .mapmob {
-        width: 1500px;
+        width: 1520px;
     }
 }
-
-
-
-
-
-@media only screen and (width > 1500px) {
-    .blackbox {
-        width: 1600px;
-    }
-    .orangebox {
-        width: 1600px;
-    }
-    .mapmob {
-        width: 1600px;
-    }
-}
-
-
-
 @media only screen and (width > 1600px) {
     .blackbox {
         width: 1700px;
@@ -101,10 +79,6 @@
         width: 1700px;
     }
 }
-
-
-
-
 @media only screen and (width > 1700px) {
     .blackbox {
         width: 1800px;
@@ -116,9 +90,6 @@
         width: 1800px;
     }
 }
-
-
-
 @media only screen and (width > 1800px) {
     .blackbox {
         width: 1900px;
@@ -130,11 +101,6 @@
         width: 1900px;
     }
 }
-
-
-
-
-
 @media only screen and (width > 1900px) {
     .blackbox {
         width: 1903px;
