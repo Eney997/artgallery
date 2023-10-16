@@ -32,12 +32,108 @@
         margin-left: 916px;
         margin-top: -1090px;
         font-size: 22px;
-        
-        
     }
     .ourloc {
-        margin-left: 776px;
-        margin-top: -650px;
+        margin-left: 779px;
+        margin-top: -706px;
         z-index: 5;
+    }
+    .n2box {
+        display: grid;
+        grid-template-areas: 'meore pirveli'
+                             'mesame meotxe'
+                             'mesame mexute';
+    
+    }
+    .item1 {
+      grid-area: pirveli;
+      background-image: url(/assets/img1back.svg);
+      width: 635px;
+      height: 400px;
+      margin-left: -165px;
+    }
+    .item2 {
+        grid-area: meore;
+        margin-left:;
+        margin-top: ;
+    }
+    .item3 {
+        grid-area: mesame;
+        background-image: url(/assets/img3back.svg);
+        width: 635px;
+        height: 720px;
+        margin-left: 165px;
+
+    }
+    .item4 {
+        grid-area: meotxe;
+        background-image: url(/assets/img4back.svg);
+        width: 445px;
+        height: 313px;
+        margin-top: 31px;
+        margin-left: 26px;
+    }
+    .item5 {
+        grid-area: mexute;
+        width: 445px;
+        height:390px;
+        margin-left: 26px;
+    }
+    .let2-1 {
+        width: 350px;
+        font-size: 60px;
+        font-weight: 900;
+        line-height: 60px; 
+    }
+    .let2-2 {
+        width: 350px;
+        font-size: 22px;
+        font-weight: 300;
+        line-height: 32px; 
+    }
+    .let5-1 {
+        width: 350px;
+        font-size: 60px;
+        font-weight: 900;
+        line-height: 60px; 
+    }
+    .let5-2 {
+        width: 350px;
+        font-size: 22px;
+        font-weight: 300;
+    }
+    .image1 {
+        width:0px;
+    }
+    .image4 {
+        width:  0;
+    }
+    .image3 {
+        width: 0;
+    }
+    .footer {
+        width: 1441px;
+        height: 244px;
+        background: var(--Almost-Black, #151515);
+    }
+    .footimg1 {
+        margin-top: 56px;
+        margin-left: 156px;
+    }
+    .footimg2 {
+        position: absolute;
+        margin-left:1175px; 
+        margin-top: -71px;
+    }
+    .foottext {
+        width: 430px;
+        margin-top:-57px;
+        margin-left: 500px;
+        color: var(--White, #FFF);
+        font-family: Outfit;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 28px;
     }
 }
