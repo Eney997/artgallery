@@ -57,6 +57,39 @@
         margin-left: -900px;
     }
 }
+
+
+
+@media only screen and (width > 1440px) {
+    .blackbox {
+        width: 1500px;
+    }
+    .orangebox {
+        width: 1500px;
+    }
+    .mapmob {
+        width: 1500px;
+    }
+}
+
+
+
+
+
+@media only screen and (width > 1500px) {
+    .blackbox {
+        width: 1600px;
+    }
+    .orangebox {
+        width: 1600px;
+    }
+    .mapmob {
+        width: 1600px;
+    }
+}
+
+
+
 @media only screen and (width > 1600px) {
     .blackbox {
         width: 1700px;
