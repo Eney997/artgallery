@@ -54,8 +54,6 @@
     }
     .item2 {
         grid-area: meore;
-        margin-left:;
-        margin-top: ;
     }
     .item3 {
         grid-area: mesame;
@@ -63,7 +61,6 @@
         width: 635px;
         height: 720px;
         margin-left: 165px;
-
     }
     .item4 {
         grid-area: meotxe;
@@ -112,7 +109,7 @@
         width: 0;
     }
     .footer {
-        width: 1441px;
+        width: 1440px;
         height: 244px;
         background: var(--Almost-Black, #151515);
     }
