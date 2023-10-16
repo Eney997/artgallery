@@ -136,7 +136,7 @@
 }
 @media only screen and (width > 1900px) {
     .footer {
-        width: 1903px;
+        width: 1901px;
         height: 244px;
         background: var(--Almost-Black, #151515);
     }
@@ -185,13 +185,4 @@
         margin-left: 20px;
     }
 }
-@media only screen and (width > 1500px) {
-    .footer {
-        width: 1918px;
-    }
-}
-@media only screen and (width > 1450px) {
-    .footer {
-        width: 1918px;
-    }
-}
+
