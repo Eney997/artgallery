@@ -40,7 +40,8 @@ body {
     margin-top: -72px;
 }
 .checkmob {
-    margin-top: -318px;
+    margin-top: -383px;
+    margin-left: 2px;
     z-index: 3;  
 }
 .blackbox {

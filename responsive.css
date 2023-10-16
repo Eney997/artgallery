@@ -109,7 +109,7 @@
         width: 0;
     }
     .footer {
-        width: 1440.901px;
+        width: 1520px;
         height: 244px;
         background: var(--Almost-Black, #151515);
     }
@@ -132,6 +132,21 @@
         font-style: normal;
         font-weight: 300;
         line-height: 28px;
+    }
+}
+@media only screen and (width > 1600px) {
+    footer {
+        width: 1700px;
+    }
+}
+@media only screen and (width > 1700px) {
+    footer {
+        width: 1800px;
+    }
+}
+@media only screen and (width > 1800px) {
+    footer {
+        width: 1900px;
     }
 }
 @media only screen and (width > 1900px) {
@@ -185,4 +200,5 @@
         margin-left: 20px;
     }
 }
+
 
