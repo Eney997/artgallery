@@ -134,3 +134,54 @@
         line-height: 28px;
     }
 }
+@media only screen and (width > 1900px) {
+    .footer {
+        width: 1903px;
+        height: 244px;
+        background: var(--Almost-Black, #151515);
+    }
+    .footimg1 {
+        margin-top: 56px;
+        margin-left: 156px;
+    }
+    .footimg2 {
+        margin-left:1475px; 
+        margin-top: -71px;
+    }
+    .foottext {
+        margin-top:-57px;
+        margin-left: 600px;
+    }
+    .item1 {
+        grid-area: pirveli;
+        background-image: url(/assets/img1back.svg);
+        width: 635px;
+        height: 400px;
+        margin-left: -170px;
+      }
+      .item2 {
+        margin-left: 400px;
+      }
+      .item3 {
+        grid-area: mesame;
+        background-image: url(/assets/img3back.svg);
+        width: 635px;
+        height: 720px;
+        margin-left: 500px;
+    }
+    .item4 {
+        grid-area: meotxe;
+        background-image: url(/assets/img4back.svg);
+        width: 445px;
+        height: 313px;
+        margin-top: 31px;
+        margin-left: 20px;
+    }
+    .item5 {
+        grid-area: mexute;
+        width: 445px;
+        height:390px;
+        margin-left: 26px;
+        margin-left: 20px;
+    }
+}
