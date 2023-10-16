@@ -1,0 +1,70 @@
+@media only screen and (width > 1440px) {
+    .mapmob {
+        background-image: url(/assets4menu/mapbackground.svg);
+        width: 1440.901px;
+        height: 685px;
+    }
+    .blackbox {
+        width: 1440.901px;
+        height: 548px;
+    }
+    .orangebox {
+        width: 1440.901px;
+        height: 244px;
+    }
+    .blackinside1 {
+        position: absolute;
+        margin-top: 104px;
+        margin-left: 165px;
+        width: 350px;
+        font-size: 70px;
+        line-height: 70px; 
+    }
+    .blackinside2 {
+        margin-left: 735px;
+        margin-top: 104px;
+        width: 350px;
+        font-size: 36px;
+    }
+    .blackinside3 {
+        margin-left: 735px;
+        width: 205px;
+        font-size: 22px;
+    }
+    .blackinside4 {
+        margin-left: 735px;
+        width: 540px;
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .orangeimg {
+        margin-top: 70px;
+        margin-left: 200px;
+        width: 159.572px;
+        height: 58px;
+    }
+    .orangeinside1 {
+        width: 430px;
+        margin-top:-71px;
+        margin-left: 600px;
+    }
+    .socials {
+        position: absolute;
+        margin-left:1200px; 
+        margin-top: -64px;
+    }
+    .backmenu {
+        margin-left: -900px;
+    }
+}
+@media only screen and (width > 1900px) {
+    .blackbox {
+        width: 1918px;
+    }
+    .orangebox {
+        width: 1918px;
+    }
+    .mapmob {
+        width: 1918px;
+    }
+}
